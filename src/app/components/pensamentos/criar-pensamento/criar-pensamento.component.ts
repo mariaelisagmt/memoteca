@@ -34,6 +34,7 @@ export class CriarPensamentoComponent implements OnInit {
       modelo: ['modelo1']
     })
   }
+  
 
   criarPensamento() {
     if(this.formulario.valid){
