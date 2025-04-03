@@ -12,7 +12,7 @@
       "conteudo": "Vc faz TI? Conserta meu celular!",
       "autoria": "Grupo da família",
       "modelo": "modelo1",
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "Já tentou reiniciar o roteador?",
@@ -33,7 +33,7 @@
       "autoria": "Dev",
       "modelo": "modelo3",
       "id": "7",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": "9",
@@ -54,7 +54,7 @@
       "autoria": "Mãe",
       "modelo": "modelo2",
       "id": "14",
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "Foi sem querer querendo!",
@@ -124,7 +124,7 @@
       "autoria": "Mãe",
       "modelo": "modelo1",
       "id": "24",
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "Por que meu código funcionou?",
