@@ -10,9 +10,9 @@
                 (keyup)="pesquisarPensamentos()">
                 <img src="../../../../assets/img/lupa.png" alt="Lupa azul">
         </div>
-        <h2 class="ff-inter">Meu Mural</h2>
+        <h2 class="ff-inter">{{ titulo }}</h2>
         <div class="botoes">
-            <button class="botao" (click)="listarPensamentos()">Meu Mural</button>
+            <button class="botao" (click)="recarregarComponente()">Meu Mural</button>
             <button class="botao" (click)="listarFavoritos()">Meus favoritos</button>
             <button routerLink="/criarPensamento" class="botao">Novo Pensamento</button>
         </div>
